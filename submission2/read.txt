@@ -1,0 +1,16 @@
+Link to unlisted YouTube video:
+
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1fgjxDBIFjcQdgX-92HgJxG4mI2YlvqpcWM1LR6q5qCA/edit?usp=sharing
+
+Paper title:
+Using Convolutional Networks and Satellite Imagery to Identify Patterns in Urban Environments at a Large Scale
+
+Link to the paper:
+https://arxiv.org/pdf/1704.02965v2.pdf
+Group Number:
+06
+
+Individual Submitter:
+20101562 Parom Guha Neogi
